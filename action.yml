@@ -1,4 +1,4 @@
-name: "podcast-generator"
+name: "achockalingam-podcast-generator"
 author: "ambal"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
